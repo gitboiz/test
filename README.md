@@ -4,4 +4,4 @@ s
 s
 f
 s
-dw
+dws
