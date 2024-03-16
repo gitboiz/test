@@ -29,5 +29,5 @@ w
 w3
 s
 d
-s
+sw
 w
